@@ -4,10 +4,9 @@ using System.IO;
 
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace FinalTask
+namespace M8_4
 {
 
-    [Serializable]
     public class Student
     {
         public string Name { get; set; }
